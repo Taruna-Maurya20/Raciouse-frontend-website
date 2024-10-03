@@ -1,1 +1,2 @@
 # Raciouse-frontend-website
+Raciouse is a beautifully designed frontend website built using HTML and CSS. The website features a clean and modern layout with well-organized sections and visually appealing images to enhance the user experience. Responsive design ensures that the website looks great on all devices, from desktops to mobile phones. The project showcases effective use of HTML for structuring content and CSS for styling, creating an aesthetically pleasing interface that is both functional and user-friendly.
